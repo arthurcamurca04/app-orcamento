@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "363958939717",
+    "firebase_url": "https://app-orcamento-c3a46.firebaseio.com",
+    "project_id": "app-orcamento-c3a46",
+    "storage_bucket": "app-orcamento-c3a46.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:363958939717:android:51e81ecd7c5055144af32c",
+        "android_client_info": {
+          "package_name": "com.example.app_orcamento"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "363958939717-19hcsgu7hec345uniec2gpmubcioos75.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.app_orcamento",
+            "certificate_hash": "e2722155b3c71664ce49e57aac2eb1006956c8c6"
+          }
+        },
+        {
+          "client_id": "363958939717-606nlda1u1plsqukimi9en8a9blppr7g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDYYZb6KkD_CuPQOt5IGVVFaMHENG5HRiQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "363958939717-606nlda1u1plsqukimi9en8a9blppr7g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
